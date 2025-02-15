@@ -6,6 +6,6 @@ public class DoWhileLoopDemo {
         do{
             System.out.println("Current Ticket Number is: " +ticket_number);
             ticket_number++;
-        }while(ticket_number<90);
+        }while(ticket_number<100);
     }
 }

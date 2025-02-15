@@ -2,9 +2,9 @@ package conditionalDemo;
 
 public class SwitchDemo {
     public static void main(String[] args){
-        int x=5;
+        char x= 5;
         switch(x){
-            case 1 :
+            case 1:
                 System.out.println("Performance is poor");
                 break;
             case 2 :
